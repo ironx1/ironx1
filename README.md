@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ironx1
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning C++ and C# 
 
 <!---
 ironx1/ironx1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
